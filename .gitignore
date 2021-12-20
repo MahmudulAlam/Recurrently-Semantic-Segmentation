@@ -1,0 +1,11 @@
+.idea
+__pycache__/
+data/
+figures/
+trash/
+weights/
+unet-base/
+.ftpconfig
+.ftpignore
+*.npy
+*.h5
